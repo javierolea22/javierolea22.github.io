@@ -7,6 +7,10 @@ thead {
 background-color: #cce6ff;
 }
 
+thead { 
+background-color: #ddff99;
+}
+
 #paquito {
 border: 1px solid red;
 background-color:#ff66b3;
